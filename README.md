@@ -1,7 +1,16 @@
+# final-project-april-mei
+final-project-april-mei created by GitHub Classroom
+Group members:
+1. Mikael Mahendra Buyung Wirasukma - 05111640000044
+2. Muhammad Aufa Wibowo - 05111640000184
+3. Farhan Zuhdi - 05111640000070
+
+
 # Contextual Inquiry and Analysis of MOST
 
 ## Outline
 
+- [final-project-april-mei](#final-project-april-mei)
 - [Contextual Inquiry and Analysis of MOST](#contextual-inquiry-and-analysis-of-most)
   - [Outline](#outline)
   - [Description](#description)
