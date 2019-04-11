@@ -37,8 +37,6 @@ Securities firm in Indonesia try to provide their best service to investors. One
 - She is able to use smartphone.
 - She has just learned stock investing.
 
-
-```
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](img/most123.jpg)
