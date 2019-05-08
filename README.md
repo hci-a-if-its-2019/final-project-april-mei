@@ -16,7 +16,20 @@ Group members:
   - [Description](#description)
   - [Instruction Script](#instruction-script)
   - [User Description](#user-description)
-
+    -[Participant 1](#Participant-1)
+    -[Participant 2](#Participant-2)
+    -[Participant 3](#Participant-3)
+    -[Participant 4](#Participant-4)
+    -[Participant 5](#Participant-5)
+    -[Participant 6](#Participant-6)
+  - [Transcript](#transcript)
+    -[Transcript of Participant 1](Transcript-of-Participant-1)
+    -[Transcript of Participant 2](Transcript-of-Participant-2)
+    -[Transcript of Participant 3](Transcript-of-Participant-3)
+    -[Transcript of Participant 4](Transcript-of-Participant-4)
+    -[Transcript of Participant 5](Transcript-of-Participant-5)
+    -[Transcript of Participant 6](Transcript-of-Participant-6)
+    
 
 ## Description
 The stock market refers to the collection of markets and exchanges where the regular activities of buying, selling and issuance of shares of publicly held companies take place. To buy/sell an issuance of shares, investors must done it from broker or securities firm.
