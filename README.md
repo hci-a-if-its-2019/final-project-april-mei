@@ -51,7 +51,41 @@ Securities firm in Indonesia try to provide their best service to investors. One
 
 ## Transcript
 ### Transcript of Participant 1
+**A**: Interviewer
+**X**: Participant
 
+1. A: Terima kasih bersedia membantu saya untuk meluangkan waktu interview.. Ini merupakan aplikasi saham, prinsipnya sama. Lalu jika kita kalo mau beli saham gimana?
+2. X: Ini, order. Yeay
+3. A: Lalu kalo kita mau lihat portofolio bagaimana, Mas?
+4. X: Nah, ini ada tulisannya kok.
+5. A: Ini masih gampang ya. Selanjutnya, kalo kita mau lihat laporan keuangan sebuah bank gimana?
+6. X: Ini saya coba BRI ya, yang syariah atau tidak?
+7. A: Bebas, lalu gimana lihat laporan keuangannya?
+8. X: Wah (kesulitan)tidak ada. Eh, dikasih tau hehe
+9. A: Karena ini saham, gandengannya reksa dana. Kalo mau cari reksa dana di sini gimana caranya?
+10. X: Aduh gimana ya Mas? Saya gaptek ini kurang paham. Kurang tergabung juga. Saya tidak menemukan mas, saya menyerah
+11. A: Nggak boleh menyerah mas
+12. X: Wah belum nemuin mas
+13. A: Nah, bahasa inggrisnya reksa dana itu Mutual Fund.
+14. X: Oalah, mana tadi ya. Ini apa, ada ini ya.
+15. A: Nah sip, lali kalo kita mau narik uang kita gimana caranya?
+16. X: Ini (with shortcut)
+17. A: Coba sekarang log out.
+18. X: Ya Allah, mana ini.
+19. A: Coba kembalikan aplikasi dengan tombol back.
+20. X: Nah ini udah keluar (Home HP)
+21. A: Nah oke, tapi sebenernya saya ingin menunjukkan kalo kita menggunakan tombol back. Coba masuk aplikasinya dan keluar dengan tombol back.
+22. X: Oh iya, ini gak bisa keluar, jadi kaya loop gitu ya.
+23. A: Iya. Nah, menurutmu bagaimana dengan aplikasi ini?
+24. X: Jadi, di tombol ini (bawah) itu font nya gak sama ya. Trus ini niatnya mau buat tampilan simple tapi jadinya ribet.
+25. A: Dari segi experience, apalagi menurutmu?
+26. X: Karena gak seberapa paham dengan saham, saya masih kurang paham dengan istilahnya. Mungkin ada guide untuk first usernya.
+27. A: Oh iya, coba tekan register.
+28. X: Lho kok mati? Oh, ini registernya gak bisa di aplikasi langsung ya?
+29. A: Iya, ini jadi direct menuju ke alamat web dengan form yang lengkap.
+30. X: Oh begitu, sip.
+31. A: Iya, terima kasih ya atas waktunya.
+32. X: Sama-sama.
 ### Transcript of Participant 2
 1.	**Me** : oke, thanks udah mau bantuin tugas saya nih
 2.	**Me** : jadi ini adalah app mandiri sekuritas untuk trading saham, ada beberapa hal yang akan kamu lakukan
