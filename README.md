@@ -152,11 +152,11 @@ Securities firm in Indonesia try to provide their best service to investors. One
 ## Do's and Don't's
 ### Do's
 
-1. Place more iconic icon
-2. Pleasant view design rather than a compact and full of text
+1. Add the menubar with icons
+2. Don't make the menubar too stacked with each other
 3. Shadows for interactive box
-4. Make it more intuitive 
+4. Put the logout button at a known place such as profile or setting
   
 ### Don't's
 
-1. Single color for every decision (exit, login, confirming) 
+1. Use single color for every decision (exit, login, confirming) 
