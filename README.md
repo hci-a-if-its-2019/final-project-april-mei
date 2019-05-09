@@ -51,7 +51,7 @@ Securities firm in Indonesia try to provide their best service to investors. One
 
 ## Transcript
 ### Transcript of Participant 1
-```
+
 1. **AprilMei** : Terima kasih bersedia membantu saya untuk meluangkan waktu interview.. Ini merupakan aplikasi saham, prinsipnya sama. Lalu jika kita kalo mau beli saham gimana?
 2. **Participant** : Ini, order. Yeay
 3. **AprilMei** : Lalu kalo kita mau lihat portofolio bagaimana, Mas?
@@ -84,7 +84,7 @@ Securities firm in Indonesia try to provide their best service to investors. One
 30. **Participant** : Oh begitu, sip.
 31. **AprilMei** : Iya, terima kasih ya atas waktunya.
 32. **Participant** : Sama-sama.
-```
+
 ### Transcript of Participant 2
 
 1.	**AprilMei** : oke, thanks udah mau bantuin tugas saya nih
