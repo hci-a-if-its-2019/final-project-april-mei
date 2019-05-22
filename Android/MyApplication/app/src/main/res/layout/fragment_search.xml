@@ -1,25 +1,409 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent" android:layout_height="match_parent">
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+    <SearchView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TableLayout
+        android:id="@+id/table1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rowbutton"/>
+    </TableLayout>
 
     <TableLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/table1"
+        android:layout_alignBottom="@+id/pager"
+        android:background="#ffffff">
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="AALI"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="GRAPH"
+                android:textAlignment="textEnd"
+                android:textColor="#00ff00"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="10.350"
+                android:textAlignment="textEnd"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+        </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="AALI"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="GRAPH"
+                android:textAlignment="textEnd"
+                android:textColor="#00ff00"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="10.350"
+                android:textAlignment="textEnd"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+        </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="AALI"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="GRAPH"
+                android:textAlignment="textEnd"
+                android:textColor="#00ff00"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="10.350"
+                android:textAlignment="textEnd"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+        </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="AALI"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="GRAPH"
+                android:textAlignment="textEnd"
+                android:textColor="#00ff00"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="10.350"
+                android:textAlignment="textEnd"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="AALI"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="GRAPH"
+                android:textAlignment="textEnd"
+                android:textColor="#00ff00"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="10.350"
+                android:textAlignment="textEnd"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="AALI"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="GRAPH"
+                android:textAlignment="textEnd"
+                android:textColor="#00ff00"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="10.350"
+                android:textAlignment="textEnd"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="AALI"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="GRAPH"
+                android:textAlignment="textEnd"
+                android:textColor="#00ff00"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="10.350"
+                android:textAlignment="textEnd"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="AALI"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="GRAPH"
+                android:textAlignment="textEnd"
+                android:textColor="#00ff00"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="10.350"
+                android:textAlignment="textEnd"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="AALI"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="GRAPH"
+                android:textAlignment="textEnd"
+                android:textColor="#00ff00"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:paddingRight="10dp"
+                android:text="10.350"
+                android:textAlignment="textEnd"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+        </TableRow>
     </TableLayout>
 </RelativeLayout>
