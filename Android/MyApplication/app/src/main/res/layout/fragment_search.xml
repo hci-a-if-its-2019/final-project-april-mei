@@ -44,24 +44,19 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight="1"
+                android:layout_weight="2"
                 android:padding="10dp"
                 android:text="AALI"
                 android:textColor="#000000"
                 android:textSize="20dp" />
 
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_gravity="right|center_vertical"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:paddingRight="10dp"
-                android:text="GRAPH"
-                android:textAlignment="textEnd"
-                android:textColor="#00ff00"
-                android:textSize="20dp" />
+            <ImageButton android:id="@+id/imagebutton0"
+                android:src="@drawable/aaligraph"
+                android:scaleType="fitXY"
+                android:background="@null"
+                android:padding="5dip"
+                android:layout_width="100dip"
+                android:layout_height="40dip" />
 
             <TextView
                 android:id="@+id/textView"
@@ -85,24 +80,19 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight="1"
+                android:layout_weight="2"
                 android:padding="10dp"
                 android:text="AALI"
                 android:textColor="#000000"
                 android:textSize="20dp" />
 
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_gravity="right|center_vertical"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:paddingRight="10dp"
-                android:text="GRAPH"
-                android:textAlignment="textEnd"
-                android:textColor="#00ff00"
-                android:textSize="20dp" />
+            <ImageButton android:id="@+id/imagebutton0"
+                android:src="@drawable/aaligraph"
+                android:scaleType="fitXY"
+                android:background="@null"
+                android:padding="5dip"
+                android:layout_width="100dip"
+                android:layout_height="40dip" />
 
             <TextView
                 android:id="@+id/textView"
@@ -126,24 +116,19 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight="1"
+                android:layout_weight="2"
                 android:padding="10dp"
                 android:text="AALI"
                 android:textColor="#000000"
                 android:textSize="20dp" />
 
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_gravity="right|center_vertical"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:paddingRight="10dp"
-                android:text="GRAPH"
-                android:textAlignment="textEnd"
-                android:textColor="#00ff00"
-                android:textSize="20dp" />
+            <ImageButton android:id="@+id/imagebutton0"
+                android:src="@drawable/aaligraph"
+                android:scaleType="fitXY"
+                android:background="@null"
+                android:padding="5dip"
+                android:layout_width="100dip"
+                android:layout_height="40dip" />
 
             <TextView
                 android:id="@+id/textView"
@@ -167,24 +152,19 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight="1"
+                android:layout_weight="2"
                 android:padding="10dp"
                 android:text="AALI"
                 android:textColor="#000000"
                 android:textSize="20dp" />
 
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_gravity="right|center_vertical"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:paddingRight="10dp"
-                android:text="GRAPH"
-                android:textAlignment="textEnd"
-                android:textColor="#00ff00"
-                android:textSize="20dp" />
+            <ImageButton android:id="@+id/imagebutton0"
+                android:src="@drawable/aaligraph"
+                android:scaleType="fitXY"
+                android:background="@null"
+                android:padding="5dip"
+                android:layout_width="100dip"
+                android:layout_height="40dip" />
 
             <TextView
                 android:id="@+id/textView"
@@ -208,24 +188,19 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight="1"
+                android:layout_weight="2"
                 android:padding="10dp"
                 android:text="AALI"
                 android:textColor="#000000"
                 android:textSize="20dp" />
 
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_gravity="right|center_vertical"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:paddingRight="10dp"
-                android:text="GRAPH"
-                android:textAlignment="textEnd"
-                android:textColor="#00ff00"
-                android:textSize="20dp" />
+            <ImageButton android:id="@+id/imagebutton0"
+                android:src="@drawable/aaligraph"
+                android:scaleType="fitXY"
+                android:background="@null"
+                android:padding="5dip"
+                android:layout_width="100dip"
+                android:layout_height="40dip" />
 
             <TextView
                 android:id="@+id/textView"
@@ -249,24 +224,20 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight="1"
+                android:layout_weight="2"
                 android:padding="10dp"
                 android:text="AALI"
                 android:textColor="#000000"
                 android:textSize="20dp" />
 
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_gravity="right|center_vertical"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:paddingRight="10dp"
-                android:text="GRAPH"
-                android:textAlignment="textEnd"
-                android:textColor="#00ff00"
-                android:textSize="20dp" />
+            <ImageButton
+                android:id="@+id/imagebutton0"
+                android:src="@drawable/aaligraph"
+                android:scaleType="fitXY"
+                android:background="@null"
+                android:padding="5dip"
+                android:layout_width="100dip"
+                android:layout_height="40dip" />
 
             <TextView
                 android:id="@+id/textView"
@@ -290,24 +261,19 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight="1"
+                android:layout_weight="2"
                 android:padding="10dp"
                 android:text="AALI"
                 android:textColor="#000000"
                 android:textSize="20dp" />
 
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_gravity="right|center_vertical"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:paddingRight="10dp"
-                android:text="GRAPH"
-                android:textAlignment="textEnd"
-                android:textColor="#00ff00"
-                android:textSize="20dp" />
+            <ImageButton android:id="@+id/imagebutton0"
+                android:src="@drawable/aaligraph"
+                android:scaleType="fitXY"
+                android:background="@null"
+                android:padding="5dip"
+                android:layout_width="100dip"
+                android:layout_height="40dip" />
 
             <TextView
                 android:id="@+id/textView"
@@ -331,24 +297,20 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight="1"
+                android:layout_weight="2"
                 android:padding="10dp"
+                android:paddingRight="100dp"
                 android:text="AALI"
                 android:textColor="#000000"
                 android:textSize="20dp" />
 
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_gravity="right|center_vertical"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:paddingRight="10dp"
-                android:text="GRAPH"
-                android:textAlignment="textEnd"
-                android:textColor="#00ff00"
-                android:textSize="20dp" />
+            <ImageButton android:id="@+id/imagebutton0"
+                android:src="@drawable/aaligraph"
+                android:scaleType="fitXY"
+                android:background="@null"
+                android:padding="5dip"
+                android:layout_width="100dip"
+                android:layout_height="40dip" />
 
             <TextView
                 android:id="@+id/textView"
@@ -373,24 +335,19 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight="1"
+                android:layout_weight="2"
                 android:padding="10dp"
                 android:text="AALI"
                 android:textColor="#000000"
                 android:textSize="20dp" />
 
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_gravity="right|center_vertical"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:paddingRight="10dp"
-                android:text="GRAPH"
-                android:textAlignment="textEnd"
-                android:textColor="#00ff00"
-                android:textSize="20dp" />
+            <ImageButton android:id="@+id/imagebutton0"
+                android:src="@drawable/aaligraph"
+                android:scaleType="fitXY"
+                android:background="@null"
+                android:padding="5dip"
+                android:layout_width="100dip"
+                android:layout_height="40dip" />
 
             <TextView
                 android:id="@+id/textView"
