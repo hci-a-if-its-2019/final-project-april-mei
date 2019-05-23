@@ -107,7 +107,7 @@ Securities firm in Indonesia try to provide their best service to investors. One
  - **Resolution**: Fix some of display error.
  
 #### OBSERVATION 3 (Sidebar)
-![Buy Stock Page](Src/Search.JPG)
+![Buy Stock Page](Src/Sidebar.JPG)
  - **Reference**: Participant 1: 13, Participant 2: 9
  - **Feedback**: Participant 1: 17, Participant 2: 10 : Text too small and barely visible because of the color.
  - **Incidence**: Participant almost cant see.
@@ -131,6 +131,14 @@ Securities firm in Indonesia try to provide their best service to investors. One
  - **Reason**: Haven't got the time to design proper portofolio page.
  - **Resolution**: Design a page for Portofolio.
  
+  #### OBSERVATION 6 (Search)
+ ![Buy Stock Page](Src/Portofolio.JPG)
+
+ - **Reference**: Participant 2: 19
+ - **Feedback**: The text is not properly displayed
+ - **Incidence**: None.
+ - **Reason**: Haven't got the time to design proper portofolio page.
+ - **Resolution**: Fix the page.
   
 ## Prototyping
 ### Sketch
