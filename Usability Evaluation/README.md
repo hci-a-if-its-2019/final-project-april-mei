@@ -113,30 +113,39 @@ Securities firm in Indonesia try to provide their best service to investors. One
  - **Feedback**: Participant 1: 17, Participant 2: 10 : Text too small and barely visible because of the color.
  - **Incidence**: Participant almost cant see.
  - **Reason**: None.
- - **Resolution**: Design a new order page.
+ - **Resolution**: Make the text better sized and properly colored so the user can see it clearly.
  
  #### OBSERVATION 4 (Order)
 ![Buy Stock Page](Src/Order.JPG)
  - **Reference**: Participant 1: 11, Participant 2: 9
- - **Feedback**: Participant 1: 
+ - **Feedback**: Participant 1: 24, Partipant 2: 13 : Text too small, add button not working and, table at the bottom blank
  - **Incidence**: None.
  - **Reason**: None.
- - **Resolution**: Design a new order page.
+ - **Resolution**: Edit text size, change the add and substract button into input type.
  
  #### OBSERVATION 5 (Portofolio)
- ![Buy Stock Page](Src/Sidebar.JPG)
+ ![Buy Stock Page](Src/Portofolio.JPG)
 
  - **Reference**: Participant 2: 2
  - **Feedback**: None.
- - **Incidence**: The page only contain "Portopolio" word.
+ - **Incidence**: The page only contain "Portofolio" word.
  - **Reason**: Haven't got the time to design proper portofolio page.
- - **Resolution**: Design a new order page.
+ - **Resolution**: Design a page for Portofolio.
  
   
 ## Prototyping
 ### Sketch
-
-![Sketch of Refined Prototype](img/photo_2019-05-02_00-56-09.jpg)
-
+#### Watchlist
+![Sketch of Refined Prototype](Src/Sketch1.jpg)
+#### Sidebar
+![Sketch of Refined Prototype](Src/Sketch2.jpg)
+#### Search
+![Sketch of Refined Prototype](Src/Sketch3.jpg)
+#### Order
+![Sketch of Refined Prototype](Src/Sketch4.jpg)
+#### Portofolio
+![Sketch of Refined Prototype](Src/Sketch5.jpg)
 ### Design Rationale
 It is important that design should address spesific user. Not all user able to intuitively interact with the design that designers create. Hence, user-based design is fundamental to determine the design itself.
+### High-Fidelity Interactive-Prototype
+
