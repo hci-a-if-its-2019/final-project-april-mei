@@ -160,3 +160,40 @@ Securities firm in Indonesia try to provide their best service to investors. One
 36.	**Participant** : Ohh iya juga sih. Tapi, ya emang app sekuritas ga semua orang bisa pakai sih.
 37.	**AprilMei** : Oke, jadi overall app ini oke ya?
 38.	**Participant** : iya.
+
+### Feedback and Incidence Analysis
+
+#### OBSERVATION 1 (Login Operation)
+![Login page](img/Login&#32;Page.png)
+
+ - **Reference**: Participant 1: 8, Participant 2: 2
+ - **Feedback**: Welcome page and login page is still the same with current app.
+ - **Incidence**: None.
+ - **Reason**: None.
+ - **Resolution**: Design a new login page.
+ 
+#### OBSERVATION 2 (Buy / Sell Operation)
+![Buy Stock Page](img/Buy&#32;Stock&#32;Page.jpg)
+
+ - **Reference**: Participant 1: 8, Participant 2: 2
+ - **Feedback**: Overall good. Buy Stock Page is still the same with current app.
+ - **Incidence**: None.
+ - **Reason**: None.
+ - **Resolution**: Design a new login page.
+ 
+#### OBSERVATION 3 (Financial Fact)
+![Financial Fact Page](img/Stock&#32;Information&#32;Page&#32;-&#32;Financials.jpg)
+
+ - **Reference**: Participant 1: 16, Participant 2: 8
+ - **Feedback**: There is no search bar to find another stock.
+ - **Incidence**: None.
+ - **Reason**: None.
+ - **Resolution**: Add search bar.
+ 
+## Prototyping
+### Sketch
+
+![Sketch of Refined Prototype](img/photo_2019-05-02_00-56-09.jpg)
+
+### Design Rationale
+It is important that design should address spesific user. Not all user able to intuitively interact with the design that designers create. Hence, user-based design is fundamental to determine the design itself.
