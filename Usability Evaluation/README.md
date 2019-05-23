@@ -147,4 +147,4 @@ Securities firm in Indonesia try to provide their best service to investors. One
 ### Design Rationale
 It is important that design should address spesific user. Not all user able to intuitively interact with the design that designers create. Hence, user-based design is fundamental to determine the design itself.
 ### High-Fidelity Interactive-Prototype
-https://youtu.be/5WJXqk9moyw
+https://youtu.be/TpDGpU6MUeM
