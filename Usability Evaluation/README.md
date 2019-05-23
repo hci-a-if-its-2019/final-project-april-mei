@@ -14,12 +14,12 @@ Securities firm in Indonesia try to provide their best service to investors. One
 
 ## Instruction Script
 
-1.  Buy and Sell Stock
+1. Buy and Sell Stock
 2.	Check portofolio
-3.	Check current equity
+3.	Order and Sell Stock
 4.	Use money withdraw feature
 5.	Find stock's financial fact
-6.  Logout-Login Experience
+6. Logout-Login Experience
 
 ## User Description
 ### Participant 1
