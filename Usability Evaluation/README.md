@@ -14,12 +14,11 @@ Securities firm in Indonesia try to provide their best service to investors. One
 
 ## Instruction Script
 
-1. Buy and Sell Stock
+1. Login into the Apps
 2.	Check portofolio
-3.	Order and Sell Stock
-4.	Use money withdraw feature
-5.	Find stock's financial fact
-6. Logout-Login Experience
+3.	Order
+4.	Search for company
+5.	Find account balance
 
 ## User Description
 ### Participant 1
@@ -59,7 +58,7 @@ Securities firm in Indonesia try to provide their best service to investors. One
 22. **Participant** : Oalahh, masih ada lagi, mas?
 23. **AprilMei** : Gaada lagi sih, kira-kira gimana appnya? 
 24. **Participant** : Untuk tampilan sih udah cukup bagus menurutku, cuma ya itu tulisannya di profile sama bagian ordernya kecil bgt.
-25. **AprilMei** : Okee, cukup segitu dulu. makasih banyak ya.
+25. **AprilMei** : Okee, cukup segitu dulu. Makasih banyak ya.
 26. **Participant** : Sama-sama.
 
 ### Transcript of Participant 2
@@ -148,4 +147,4 @@ Securities firm in Indonesia try to provide their best service to investors. One
 ### Design Rationale
 It is important that design should address spesific user. Not all user able to intuitively interact with the design that designers create. Hence, user-based design is fundamental to determine the design itself.
 ### High-Fidelity Interactive-Prototype
-
+https://youtu.be/5WJXqk9moyw
