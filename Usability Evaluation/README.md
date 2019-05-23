@@ -164,7 +164,7 @@ Securities firm in Indonesia try to provide their best service to investors. One
 ### Feedback and Incidence Analysis
 
 #### OBSERVATION 1 (Login Operation)
-![Login page](Src/Login&#32;Page.png)
+![Login page](Src/Login.JPG)
 
  - **Reference**: Participant 1: 8, Participant 2: 2
  - **Feedback**: Welcome page and login page is still the same with current app.
@@ -173,22 +173,14 @@ Securities firm in Indonesia try to provide their best service to investors. One
  - **Resolution**: Design a new login page.
  
 #### OBSERVATION 2 (Buy / Sell Operation)
-![Buy Stock Page](img/Home.JPG)
+![Buy Stock Page](Src/Order.JPG)
 
  - **Reference**: Participant 1: 8, Participant 2: 2
  - **Feedback**: Overall good. Buy Stock Page is still the same with current app.
  - **Incidence**: None.
  - **Reason**: None.
- - **Resolution**: Design a new login page.
+ - **Resolution**: Design a new order page.
  
-#### OBSERVATION 3 (Financial Fact)
-![Financial Fact Page](img/Stock&#32;Information&#32;Page&#32;-&#32;Financials.jpg)
-
- - **Reference**: Participant 1: 16, Participant 2: 8
- - **Feedback**: There is no search bar to find another stock.
- - **Incidence**: None.
- - **Reason**: None.
- - **Resolution**: Add search bar.
  
 ## Prototyping
 ### Sketch
